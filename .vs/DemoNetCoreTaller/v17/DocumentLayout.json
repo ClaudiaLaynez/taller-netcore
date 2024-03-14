@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7480A9E-FBBD-4AF7-B383-34F1EA59AB96}|Demo.Test\\Demo.Test.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.test\\moviecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7480A9E-FBBD-4AF7-B383-34F1EA59AB96}|Demo.Test\\Demo.Test.csproj|solutionrelative:demo.test\\moviecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7480A9E-FBBD-4AF7-B383-34F1EA59AB96}|Demo.Test\\Demo.Test.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.test\\demo.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7480A9E-FBBD-4AF7-B383-34F1EA59AB96}|Demo.Test\\Demo.Test.csproj|solutionrelative:demo.test\\demo.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DFE889-E6BA-45AF-9CBA-3BAED0F46542}|Demo.Application\\Demo.Application.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.application\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DFE889-E6BA-45AF-9CBA-3BAED0F46542}|Demo.Application\\Demo.Application.csproj|solutionrelative:demo.application\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D13C31-FC49-4480-AEB0-0F8EBCB1037C}|Demo.API\\Demo.API.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D13C31-FC49-4480-AEB0-0F8EBCB1037C}|Demo.API\\Demo.API.csproj|solutionrelative:demo.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DFE889-E6BA-45AF-9CBA-3BAED0F46542}|Demo.Application\\Demo.Application.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.application\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DFE889-E6BA-45AF-9CBA-3BAED0F46542}|Demo.Application\\Demo.Application.csproj|solutionrelative:demo.application\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DFE889-E6BA-45AF-9CBA-3BAED0F46542}|Demo.Application\\Demo.Application.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.application\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DFE889-E6BA-45AF-9CBA-3BAED0F46542}|Demo.Application\\Demo.Application.csproj|solutionrelative:demo.application\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7480A9E-FBBD-4AF7-B383-34F1EA59AB96}|Demo.Test\\Demo.Test.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.test\\movieservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7480A9E-FBBD-4AF7-B383-34F1EA59AB96}|Demo.Test\\Demo.Test.csproj|solutionrelative:demo.test\\movieservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F6FF1E-8F3A-4299-AFE1-EAB3D6A963F3}|Demo.Infraestructure\\Demo.Infraestructure.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.infraestructure\\migrations\\moviecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F6FF1E-8F3A-4299-AFE1-EAB3D6A963F3}|Demo.Infraestructure\\Demo.Infraestructure.csproj|solutionrelative:demo.infraestructure\\migrations\\moviecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D13C31-FC49-4480-AEB0-0F8EBCB1037C}|Demo.API\\Demo.API.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D13C31-FC49-4480-AEB0-0F8EBCB1037C}|Demo.API\\Demo.API.csproj|solutionrelative:demo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D13C31-FC49-4480-AEB0-0F8EBCB1037C}|Demo.API\\Demo.API.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10D13C31-FC49-4480-AEB0-0F8EBCB1037C}|Demo.API\\Demo.API.csproj|solutionrelative:demo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F6FF1E-8F3A-4299-AFE1-EAB3D6A963F3}|Demo.Infraestructure\\Demo.Infraestructure.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.infraestructure\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F6FF1E-8F3A-4299-AFE1-EAB3D6A963F3}|Demo.Infraestructure\\Demo.Infraestructure.csproj|solutionrelative:demo.infraestructure\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F6FF1E-8F3A-4299-AFE1-EAB3D6A963F3}|Demo.Infraestructure\\Demo.Infraestructure.csproj|c:\\archivos\\clases\\devsecopstaller\\tarea\\capacitacion-netcore\\demo.infraestructure\\migrations\\20240310050207_initialscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F6FF1E-8F3A-4299-AFE1-EAB3D6A963F3}|Demo.Infraestructure\\Demo.Infraestructure.csproj|solutionrelative:demo.infraestructure\\migrations\\20240310050207_initialscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieServiceTest.cs",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Test\\MovieServiceTest.cs",
+              "RelativeDocumentMoniker": "Demo.Test\\MovieServiceTest.cs",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Test\\MovieServiceTest.cs",
+              "RelativeToolTip": "Demo.Test\\MovieServiceTest.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwGcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:42:28.637Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieControllerTest.cs",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Test\\MovieControllerTest.cs",
+              "RelativeDocumentMoniker": "Demo.Test\\MovieControllerTest.cs",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Test\\MovieControllerTest.cs",
+              "RelativeToolTip": "Demo.Test\\MovieControllerTest.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:42:55.883Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo.Test.csproj",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Test\\Demo.Test.csproj",
+              "RelativeDocumentMoniker": "Demo.Test\\Demo.Test.csproj",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Test\\Demo.Test.csproj",
+              "RelativeToolTip": "Demo.Test\\Demo.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T05:08:15.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Application\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Application\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "Demo.Application\\Repositories\\MovieRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAvwBkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T04:07:34.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.API\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Demo.API\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.API\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Demo.API\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwEcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T03:54:19.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Application\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Services\\MovieService.cs",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Application\\Services\\MovieService.cs",
+              "RelativeToolTip": "Demo.Application\\Services\\MovieService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwCAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T01:52:24.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Application\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Application\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "Demo.Application\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:00:00.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Infraestructure\\Migrations\\MovieContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Demo.Infraestructure\\Migrations\\MovieContextModelSnapshot.cs",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Infraestructure\\Migrations\\MovieContextModelSnapshot.cs",
+              "RelativeToolTip": "Demo.Infraestructure\\Migrations\\MovieContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:03:53.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.API\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.API\\Program.cs",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.API\\Program.cs",
+              "RelativeToolTip": "Demo.API\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvzEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:03:40.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Infraestructure\\MovieContext.cs",
+              "RelativeDocumentMoniker": "Demo.Infraestructure\\MovieContext.cs",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Infraestructure\\MovieContext.cs",
+              "RelativeToolTip": "Demo.Infraestructure\\MovieContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:03:11.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240310050207_InitialScript.cs",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Infraestructure\\Migrations\\20240310050207_InitialScript.cs",
+              "RelativeDocumentMoniker": "Demo.Infraestructure\\Migrations\\20240310050207_InitialScript.cs",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.Infraestructure\\Migrations\\20240310050207_InitialScript.cs",
+              "RelativeToolTip": "Demo.Infraestructure\\Migrations\\20240310050207_InitialScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:02:57.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.API\\appsettings.json",
+              "ToolTip": "C:\\ARCHIVOS\\CLASES\\DEVSECOPSTALLER\\Tarea\\capacitacion-netcore\\Demo.API\\appsettings.json",
+              "RelativeToolTip": "Demo.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-10T03:09:48.413Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
