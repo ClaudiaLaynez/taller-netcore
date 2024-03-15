@@ -10,3 +10,15 @@ C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\capacitacion-netcore\Demo.Domain\obj\Debug\ne
 C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\refint\Demo.Domain.dll
 C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\Demo.Domain.pdb
 C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\ref\Demo.Domain.dll
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\bin\Debug\net8.0\Demo.Domain.deps.json
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\bin\Debug\net8.0\Demo.Domain.dll
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\bin\Debug\net8.0\Demo.Domain.pdb
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\Demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\Demo.Domain.AssemblyInfoInputs.cache
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\Demo.Domain.AssemblyInfo.cs
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\Demo.Domain.csproj.CoreCompileInputs.cache
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\Demo.Domain.sourcelink.json
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\Demo.Domain.dll
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\refint\Demo.Domain.dll
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\Demo.Domain.pdb
+C:\ARCHIVOS\CLASES\DEVSECOPSTALLER\Tarea\capacitacion-netcore\Demo.Domain\obj\Debug\net8.0\ref\Demo.Domain.dll

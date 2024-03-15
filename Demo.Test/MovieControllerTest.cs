@@ -41,7 +41,7 @@ namespace Demo.Test
         }
 
         [Fact]
-        public async Task Get_MovieById()
+        public async Task GetMovie_ById()
         {
             //Arrange
             int movieId = 1;
@@ -80,7 +80,7 @@ namespace Demo.Test
         }
 
         [Fact]
-        public async Task UpdateMovie()
+        public async Task UpdateMovie_AcceptedResult()
         {
             // Arrange
             var movieToUpdate = new Movie { Id = 3 };
@@ -101,7 +101,24 @@ namespace Demo.Test
         }
 
         [Fact]
-        public async Task DeleteMovie()
+        public async Task UpdateMovie_NotFoundResult()
+        {
+            // Arrange
+
+            var movieToUpdate = new Movie { Id = 100, Title = "Pelicula nueva", Genre = GenreType.Comedia, ReleaseDate = DateTime.Now };
+
+            _movieServiceMock.Setup(x => x.GetById(movieToUpdate.Id));
+
+            // Act
+            var result = await _controller.Update(movieToUpdate);
+
+            // Assert
+            var notFoundResult = Assert.IsType<NotFoundObjectResult>(result);
+            Assert.Equal($"Registro no disponible para actualización con id: {movieToUpdate.Id}", notFoundResult.Value);
+        }
+
+        [Fact]
+        public async Task DeleteMovie_NoContentResult()
         {
             //Arrange 
             Movie movie = new Movie();
@@ -119,6 +136,21 @@ namespace Demo.Test
             Assert.IsAssignableFrom<NoContentResult>(result);
         }
 
+        [Fact]
+        public async Task DeleteMovie_NotFoundResult()
+        {
+            // Arrange
+            var movieId = 100;
+
+            _movieServiceMock.Setup(x => x.GetById(movieId));
+
+            // Act
+            var result = await _controller.Delete(movieId);
+
+            // Assert
+            var notFoundResult = Assert.IsType<NotFoundObjectResult>(result);
+            Assert.Equal($"Registro no disponible para eliminación con id: {movieId}", notFoundResult.Value);
+        }
 
         private List<Movie> InitDummyList()
         {
